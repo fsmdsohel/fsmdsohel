@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Sohel from bangladesh, and I do Design and Development, I really enjoy learning languages and frameworks like React. I also enjoy wireframing, ui, ux, and design in general. You can check out my twitter at twitter.com/fsmdshohel.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShohelRana56)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **ShohelRana56/ShohelRana56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
