@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sohel</h1>
 <h3 align="center">A passionate full stack web developer from Bangladesh</h3>
 
-<p align="left"> <a href="https://twitter.com/fsmdsohel" target="blank"><img src="https://img.shields.io/twitter/follow/fsmdsohel?logo=twitter&style=for-the-badge" alt="fsmdsohel" /></a> </p>
-
 - 🌱 I’m currently learning **Node js.**
 
 - 👨‍💻 All of my projects are available at [https://dev-sohel.netlify.app/](https://dev-sohel.netlify.app/)
