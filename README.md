@@ -15,15 +15,8 @@ I'm Sohel from Bangladesh, and I do Design and Development. I really enjoy learn
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/fsmdsohel/) 
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://web.facebook.com/fsmdsohel) 
-[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=twitter&logoColor=ffffff)](https://web.facebook.com/fsmdsohel)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/fsmdsohel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="fsmdsohel" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/fsmdsohel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="fsmdsohel" height="30" width="40" /></a>
-<a href="https://fb.com/fsmdsohel1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="fsmdsohel1" height="30" width="40" /></a>
-<a href="https://instagram.com/fsmdsohel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="fsmdsohel" height="30" width="40" /></a>
-</p>
+[![Twitter Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=twitter&logoColor=ffffff)](https://web.facebook.com/fsmdsohel)
+[![Instagram follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=instagram&logoColor=ffffff)](https://web.facebook.com/fsmdsohel)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
