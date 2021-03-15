@@ -2,12 +2,6 @@
 
 I'm Sohel from bangladesh, and I do Design and Development, I really enjoy learning languages and frameworks like React. I also enjoy wireframing, ui, ux, and design in general. You can check out my twitter at twitter.com/fsmdshohel.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShohelRana56)](https://github.com/anuraghazra/github-readme-stats)
-<h1 align="center">Hi 👋, I'm Sohel</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fsmdsohel&label=Profile%20views&color=0e75b6&style=flat" alt="fsmdsohel" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fsmdsohel" alt="fsmdsohel" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/fsmdsohel" target="blank"><img src="https://img.shields.io/twitter/follow/fsmdsohel?logo=twitter&style=for-the-badge" alt="fsmdsohel" /></a> </p>
