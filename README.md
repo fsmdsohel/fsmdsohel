@@ -96,6 +96,8 @@ I'm Sohel from Bangladesh, and I do Design and Development. I really enjoy learn
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fsmdsohel&show_icons=true)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fsmdsohel&show_icons=true&theme=radical)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fsmdsohel&" alt="fsmdsohel" /></p>
 
 
