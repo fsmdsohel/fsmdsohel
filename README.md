@@ -96,6 +96,6 @@ I'm Sohel from Bangladesh, and I do Design and Development. I really enjoy learn
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fsmdsohel&show_icons=true&locale=en" alt="fsmdsohel" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fsmdsohel&" alt="fsmdsohel" /></p>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fsmdsohel)](https://github.com/anuraghazra/github-readme-stats)
 
 
