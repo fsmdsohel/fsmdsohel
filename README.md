@@ -3,7 +3,7 @@
 
 <h4>Hi there. I'm Sohel Rana 👋</h4>
 <h3>MERN / Full Stack Developer.</h3>
-[twitter]
+[twitter]: https://twitter.com/fsmdsohel
 I'm Sohel from Bangladesh, and I do Design and Development. I really enjoy learning languages and framworks like React, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general.
 
 - 🌱 I’m currently learning **Node js.**
