@@ -6,7 +6,7 @@
 
 I'm Sohel from Bangladesh, and I do Design and Development. I really enjoy learning languages and framworks like React, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general.
 
-- 🌱 I’m currently learning **Node js.**
+- 🌱 I’m currently learning **Everything**
 
 - 👨‍💻 All of my projects are available at [https://dev-sohel.netlify.app/](https://dev-sohel.netlify.app/)
 
