@@ -87,7 +87,7 @@
 </p>
 <p>
  
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fsmdsohel&show_icons=true&locale=en&layout=compact" alt="fsmdsohel" /></p> 
+<p align="right"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fsmdsohel&show_icons=true&locale=en&layout=compact" alt="fsmdsohel" /></p> 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fsmdsohel&show_icons=true&locale=en" alt="fsmdsohel" /></p>
 
