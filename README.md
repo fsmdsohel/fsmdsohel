@@ -1,5 +1,5 @@
 
-![Design and Development](https://scontent.fdac116-1.fna.fbcdn.net/v/t1.0-9/161432842_424676318631968_5087005666018276458_o.jpg?_nc_cat=110&ccb=1-3&_nc_sid=e3f864&_nc_ohc=YV75_2ANQh8AX9zOnS_&_nc_ht=scontent.fdac116-1.fna&oh=d430e6de681414e20f14cd72484c648f&oe=60762284)
+![Design and Development](https://mediashower.com/img/214489C6-76CA-11E9-AAB6-DF75CD55D705/bigstock-Web-Development-And-Coding-Cr-252023773_600x.jpg)
 
 <h4>Hi there. I'm Sohel Rana 👋</h4>
 <h3>MERN / Full Stack Developer.</h3>
