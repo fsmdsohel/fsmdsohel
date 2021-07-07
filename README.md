@@ -8,7 +8,7 @@ I'm Sohel from Bangladesh, and I do Design and Development. I really enjoy learn
 
 - 🌱 I’m currently learning **Everything**
 
-- 👨‍💻 All of my projects are available at [https://fsmdsohel.github.io/dev-sohel/)
+- 👨‍💻 All of my projects are available at [https://fsmdsohel.github.io/dev-sohel/]
 
 - 📫 How to reach me **fsmdsohelrana@gmail.com**
 ### Connect with me:
