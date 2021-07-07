@@ -8,9 +8,9 @@ I'm Sohel from Bangladesh, and I do Design and Development. I really enjoy learn
 
 - 🌱 I’m currently learning **Everything**
 
-- 👨‍💻 All of my projects are available at [https://dev-sohel.netlify.app/](https://dev-sohel.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://fsmdsohel.github.io/dev-sohel/)
 
-- 📫 How to reach me **fsmdshohelrana@gmail.com**
+- 📫 How to reach me **fsmdsohelrana@gmail.com**
 ### Connect with me:
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/fsmdsohel/) 
