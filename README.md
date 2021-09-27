@@ -1,5 +1,5 @@
 
-![Design and Development](https://mediashower.com/img/214489C6-76CA-11E9-AAB6-DF75CD55D705/bigstock-Web-Development-And-Coding-Cr-252023773_600x.jpg)
+![Design and Development](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
 
 <h4>Hi there. I'm Sohel Rana 👋</h4>
 <h3>MERN / Full Stack Developer.</h3>
