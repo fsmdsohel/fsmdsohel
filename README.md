@@ -20,9 +20,6 @@ I'm Sohel from Bangladesh, and I do Design and Development. I really enjoy learn
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
- <a href="https://www.arduino.cc/" target="_blank"> 
- 	<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
- </a> 
   <a href="https://www.w3schools.com/html/" target="_blank"> 
  	<img src="https://cdn-icons-png.flaticon.com/512/2535/2535518.png" alt="css3" width="40" height="40"/> 
  </a>  
@@ -52,6 +49,9 @@ I'm Sohel from Bangladesh, and I do Design and Development. I really enjoy learn
  </a> 
  <a href="https://sass-lang.com" target="_blank"> 
  	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
+ </a> 
+  <a href="https://www.arduino.cc/" target="_blank"> 
+ 	<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
  </a> 
 </p>
 <p>
