@@ -2,7 +2,7 @@
 ![Design and Development](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
 
 <h4>Hi there. I'm Sohel Rana 👋</h4>
-<h3>MERN / Full Stack Developer.</h3>
+<h3>MERN Stack Web Developer.</h3>
 
 - 🌱 I’m currently learning **Everything**
 
