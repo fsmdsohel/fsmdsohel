@@ -4,8 +4,6 @@
 <h4>Hi there. I'm Sohel Rana 👋</h4>
 <h3>MERN / Full Stack Developer.</h3>
 
-I'm Sohel from Bangladesh, and I do Design and Development. I really enjoy learning languages and framworks like React.
-
 - 🌱 I’m currently learning **Everything**
 
 - 👨‍💻 All of my projects are available at [https://fsmdsohel.github.io/dev-sohel/]
