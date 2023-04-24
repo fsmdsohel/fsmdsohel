@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **Everything**
 
-- 👨‍💻 All of my projects are available at [https://fsmdsohel.github.io/dev-sohel/]
+[comment]: <- 👨‍💻 All of my projects are available at [https://fsmdsohel.github.io/dev-sohel/]>
 
-- 📫 How to reach me **fsmdsohelrana@gmail.com**
+- 📫 How to reach me **sohel.rana.coder@gmail.com**
 ### Connect with me:
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/fsmdsohel/) 
