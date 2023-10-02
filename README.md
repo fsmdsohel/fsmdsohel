@@ -1,21 +1,25 @@
+# Hi, I'm Sohel Rana 👋
 
-![Design and Development](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
+I'm a passionate software developer with 1.5 years of hands-on experience in the world of coding. My journey began as a Junior Software Developer, and since then, I've been on an exciting path of growth and exploration in the software development realm.
 
-<h4>Hi there. I'm Sohel Rana 👋</h4>
-<h3>MERN Stack Web Developer.</h3>
+## 💻 What I Do
 
-- 🌱 I’m currently learning **Everything**
+I specialize in crafting clean, efficient, and maintainable code. My technical toolkit includes a range of programming languages and frameworks, and I'm always eager to expand my skill set to stay ahead in the dynamic field of software development.
 
-[comment]: <- 👨‍💻 All of my projects are available at [https://fsmdsohel.github.io/dev-sohel/]>
+## 🚀 What Drives Me
 
-- 📫 How to reach me **sohel.rana.coder@gmail.com**
-### Connect with me:
+I'm fueled by a deep curiosity and a relentless pursuit of excellence. Solving complex problems, tackling coding challenges, and staying updated with the latest industry trends are what keep me motivated.
 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/fsmdsohel/) 
-[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/fsmdsohel1) 
-[![Twitter Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=twitter&logoColor=ffffff)](https://twitter.com/fsmdsohel)
-[![Instagram follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=instagram&logoColor=ffffff)](https://www.instagram.com/fsmdsohel/)
+## 🌟 My Values
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fsmdsohel&" alt="fsmdsohel" /></p>
+- **Collaboration:** I thrive in collaborative environments and believe that teamwork is key to creating exceptional software.
+- **Continuous Learning:** Learning never stops, and I'm committed to staying at the forefront of technology.
+- **Clean Code:** I'm a strong advocate for clean, readable code that makes life easier for developers and ensures maintainability.
 
+## 🌐 Where to Find Me
 
+When I'm not coding, you can find me on:
+- [LinkedIn](https://www.linkedin.com/in/fsmdsohel/)
+- [Twitter](https://twitter.com/fsmdsohel)
+
+Feel free to reach out, connect, or collaborate on exciting projects. Let's make the digital world a better place one line of code at a time!
