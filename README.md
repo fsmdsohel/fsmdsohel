@@ -1,25 +1,56 @@
-# Hi, I'm Sohel Rana 👋
+# 👋 Hi, I'm Sohel Rana
 
-I'm a passionate software developer with 1.5 years of hands-on experience in the world of coding. My journey began as a Junior Software Developer, and since then, I've been on an exciting path of growth and exploration in the software development realm.
+I'm a passionate **Software Developer** specializing in building fast, scalable **mobile**, **web**, and **IoT** applications with clean, maintainable code. With experience across full-stack development and real-world IoT integration, I love solving real problems with efficient software solutions.
 
-## 💻 What I Do
+---
 
-I specialize in crafting clean, efficient, and maintainable code. My technical toolkit includes a range of programming languages and frameworks, and I'm always eager to expand my skill set to stay ahead in the dynamic field of software development.
+## 🚀 Tech Stack
 
-## 🚀 What Drives Me
+**Languages & Frameworks**  
+`JavaScript` · `TypeScript` · `Node.js` · `React` · `React Native` · `Next.js` · `Express`
 
-I'm fueled by a deep curiosity and a relentless pursuit of excellence. Solving complex problems, tackling coding challenges, and staying updated with the latest industry trends are what keep me motivated.
+**Databases & Backend**  
+`MongoDB` · `Mongoose` · `Redis` · `Prisma` · `REST APIs`
 
-## 🌟 My Values
+**DevOps & Tools**  
+`Docker` · `Kubernetes (K8s)` · `Proxmox` · `Git` · `Linux` · `Nginx`
 
-- **Collaboration:** I thrive in collaborative environments and believe that teamwork is key to creating exceptional software.
-- **Continuous Learning:** Learning never stops, and I'm committed to staying at the forefront of technology.
-- **Clean Code:** I'm a strong advocate for clean, readable code that makes life easier for developers and ensures maintainability.
+**IoT & Hardware**  
+`Microcontrollers` · `Sensors` · `RTSP camera integration` · `Home automation`
 
-## 🌐 Where to Find Me
+---
 
-When I'm not coding, you can find me on:
-- [LinkedIn](https://www.linkedin.com/in/fsmdsohel/)
-- [Twitter](https://twitter.com/fsmdsohel)
+## 📱 Featured Projects
 
-Feel free to reach out, connect, or collaborate on exciting projects. Let's make the digital world a better place one line of code at a time!
+### 🔧 CodeBox Cloud (WIP)
+An online code editor that provides containerized development environments using Kubernetes.  
+💡 **Features:** Cloud-based workspace, language sandboxing, AI-powered mentor (coming soon)
+
+### 📊 IoT Home Dashboard
+Real-time monitoring system for home energy, battery voltage, and temperature/humidity via sensors and microcontrollers.  
+💡 **Built with:** React Native, Express.js, MongoDB, and Skia for charts
+
+---
+
+## 📈 What I'm Learning
+
+- Cloud Infrastructure & Serverless
+- Advanced Kubernetes
+- Python for scripting and automation
+- English fluency (writing & speaking)
+
+---
+
+## 🧠 Fun Fact
+
+I enjoy photography, electronics DIY, and planning for a sustainable, off-grid future. ⚡🌱
+
+---
+
+## 📬 Let's Connect
+
+- 🔗 [Portfolio](https://your-portfolio.com) <!-- replace with your portfolio URL -->
+- 💼 [LinkedIn](https://linkedin.com/in/sohelrana) <!-- update if needed -->
+- 🐦 [Twitter](https://twitter.com/yourhandle) <!-- update if needed -->
+- 🧠 [Blog](https://dev.to/yourprofile) <!-- optional -->
+
