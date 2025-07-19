@@ -43,14 +43,13 @@ Real-time monitoring system for home energy, battery voltage, and temperature/hu
 
 ## 🧠 Fun Fact
 
-I enjoy photography, electronics DIY, and planning for a sustainable, off-grid future. ⚡🌱
+I enjoy photography, electronics DIY ⚡🌱
 
 ---
 
 ## 📬 Let's Connect
 
-- 🔗 [Portfolio](https://your-portfolio.com) <!-- replace with your portfolio URL -->
-- 💼 [LinkedIn](https://linkedin.com/in/sohelrana) <!-- update if needed -->
-- 🐦 [Twitter](https://twitter.com/yourhandle) <!-- update if needed -->
-- 🧠 [Blog](https://dev.to/yourprofile) <!-- optional -->
+- 🔗 [Portfolio](https://www.soheldev.com) <!-- replace with your portfolio URL -->
+- 💼 [LinkedIn](https://linkedin.com/in/fsmdsohel) <!-- update if needed -->
+- 🐦 [Twitter](https://x.com/SohelRana130138) <!-- update if needed -->
 
