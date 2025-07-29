@@ -7,7 +7,7 @@ I'm a passionate **Software Developer** specializing in building fast, scalable 
 ## 🚀 Tech Stack
 
 **Languages & Frameworks**  
-`JavaScript` · `TypeScript` · `Node.js` · `React` · `React Native` · `Next.js` · `Express`
+`JavaScript` · `TypeScript` · `Dart` · `Node.js` · `React` · `React Native` · `Flutter` · `Next.js` · `Express`
 
 **Databases & Backend**  
 `MongoDB` · `Mongoose` · `Redis` · `Prisma` · `REST APIs`
@@ -49,7 +49,6 @@ I enjoy photography, electronics DIY ⚡🌱
 
 ## 📬 Let's Connect
 
-- 🔗 [Portfolio](https://www.soheldev.com) <!-- replace with your portfolio URL -->
-- 💼 [LinkedIn](https://linkedin.com/in/fsmdsohel) <!-- update if needed -->
-- 🐦 [Twitter](https://x.com/SohelRana130138) <!-- update if needed -->
-
+- 🔗 [Portfolio](https://www.soheldev.com)
+- 💼 [LinkedIn](https://linkedin.com/in/fsmdsohel)
+- 🐦 [Twitter](https://x.com/SohelRana130138)
