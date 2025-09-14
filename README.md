@@ -20,33 +20,6 @@ I'm a passionate **Software Developer** specializing in building fast, scalable 
 
 ---
 
-## 📱 Featured Projects
-
-### 🔧 CodeBox Cloud (WIP)
-An online code editor that provides containerized development environments using Kubernetes.  
-💡 **Features:** Cloud-based workspace, language sandboxing, AI-powered mentor (coming soon)
-
-### 📊 IoT Home Dashboard
-Real-time monitoring system for home energy, battery voltage, and temperature/humidity via sensors and microcontrollers.  
-💡 **Built with:** React Native, Express.js, MongoDB, and Skia for charts
-
----
-
-## 📈 What I'm Learning
-
-- Cloud Infrastructure & Serverless
-- Advanced Kubernetes
-- Python for scripting and automation
-- English fluency (writing & speaking)
-
----
-
-## 🧠 Fun Fact
-
-I enjoy photography, electronics DIY ⚡🌱
-
----
-
 ## 📬 Let's Connect
 
 - 🔗 [Portfolio](https://www.soheldev.com)
